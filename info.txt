@@ -1,0 +1,2 @@
+password of all users of this webwsite is 12345678
+admin==> username ==farmanali and pswd 12345678
